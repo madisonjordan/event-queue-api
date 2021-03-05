@@ -3,7 +3,8 @@
 
 ## Technologies Used
 - Flask 
-- Django DB Models 
+- SQL Alchemy
+- marshmallow
 
 ## Design Patters
 - Model, View, Controller
