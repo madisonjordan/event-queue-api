@@ -1,0 +1,21 @@
+
+
+
+==========
+2021-03-06
+==========
+- can read events from RESTful API
+- wrote one event to database
+- next step: create, update, and delete from CRUD 
+
+==========
+2021-
+==========
+- switched to SQL alchemy
+- implementation of schema
+- implementation of models
+- importing stuff error??
+
+
+
+
