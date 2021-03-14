@@ -1,4 +1,8 @@
-
+==========
+2021-03-14
+==========
+- start docker support
+- future: kubernetes?
 
 
 ==========
@@ -9,7 +13,7 @@
 - next step: create, update, and delete from CRUD 
 
 ==========
-2021-
+2021-02-20
 ==========
 - switched to SQL alchemy
 - implementation of schema
